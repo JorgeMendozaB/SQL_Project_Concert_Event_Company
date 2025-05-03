@@ -1,0 +1,76 @@
+city_id, city_name, province_id
+1, Toronto, 8
+2, Vancouver, 2
+3, Montreal, 10
+4, Calgary, 1
+5, Edmonton, 1
+6, Ottawa, 8
+7, Quebec City, 10
+8, Winnipeg, 3
+9, Hamilton, 8
+10, Kitchener, 8
+11, Mississauga, 8
+12, Brampton, 8
+13, Surrey, 2
+14, Burnaby, 2
+15, Victoria, 2
+16, Regina, 11
+17, Saskatoon, 11
+18, St. John's, 6
+19, Fredericton, 4
+20, Halifax, 4
+21, Charlottetown, 12
+22, London, 8
+23, Niagara Falls, 8
+24, Kingston, 8
+25, Gatineau, 8
+26, Moncton, 4
+27, Lethbridge, 1
+28, Grande Prairie, 1
+29, Sherwood Park, 1
+30, Red Deer, 1
+31, Burlington, 8
+32, Oakville, 8
+33, Ajax, 8
+34, Vaughan, 8
+35, New Westminster, 2
+36, Langley, 2
+37, Abbotsford, 2
+38, Kamloops, 2
+39, Prince George, 2
+40, Thunder Bay, 8
+41, Sarnia, 8
+42, Barrie, 8
+43, Peterborough, 8
+44, North Bay, 8
+45, Chilliwack, 2
+46, Cranbrook, 2
+47, Dawson Creek, 2
+48, Penticton, 2
+49, Fort McMurray, 1
+50, Brooks, 1
+51, Airdrie, 1
+52, Castlegar, 2
+53, Vernon, 2
+54, Fort St. John, 2
+55, Whitehorse, 12
+56, Yellowknife, 6
+57, Iqaluit, 6
+58, Prince Albert, 11
+59, Moose Jaw, 11
+60, Bathurst, 4
+61, Miramichi, 4
+62, Summerside, 12
+63, Port Hawkesbury, 4
+64, Mont-Tremblant, 10
+65, Magog, 10
+66, Mont-Saint-Hilaire, 10
+67, Longueuil, 10
+68, Trois-Rivières, 10
+69, Shawinigan, 10
+70, Laval, 10
+71, St. Jerome, 10
+72, Baie-Comeau, 10
+73, Saguenay, 10
+74, Rimouski, 10
+75, Val-d'Or, 10

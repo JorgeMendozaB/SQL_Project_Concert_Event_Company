@@ -1,0 +1,51 @@
+artist_id, artist_name, country_id, genre_id, age, spotify_monthly_listeners, instagram_followers, artist_status
+1, Coldplay, 9, 20, 25, 35000000, 140000000, Active
+2, Bruno Mars, 184, 19, 34, 43000000, 140000000, Active
+3, Rammstein, 96, 16, 50, 22000000, 70000000, Active
+4, Rosalía, 184, 18, 30, 25000000, 250000000, Active
+5, Bad Bunny, 184, 19, 29, 55000000, 220000000, Active
+6, Drake, 184, 19, 36, 43000000, 120000000, Active
+7, The Weeknd, 184, 19, 32, 65000000, 170000000, Active
+8, Ed Sheeran, 9, 20, 32, 48000000, 100000000, Active
+9, Billie Eilish, 184, 20, 22, 47000000, 95000000, Active
+10, Shakira, 184, 18, 46, 31000000, 90000000, Active
+11, Beyoncé, 184, 17, 42, 37000000, 210000000, Active
+12, Justin Bieber, 184, 19, 29, 43000000, 180000000, Active
+13, Ariana Grande, 184, 17, 29, 50000000, 250000000, Active
+14, Post Malone, 184, 19, 29, 42000000, 150000000, Active
+15, Imagine Dragons, 9, 20, 35, 35000000, 110000000, Active
+16, Metallica, 96, 16, 60, 15000000, 50000000, Active
+17, Katy Perry, 184, 19, 39, 37000000, 180000000, Active
+18, Taylor Swift, 184, 19, 35, 60000000, 250000000, Active
+19, Travis Scott, 184, 19, 32, 43000000, 250000000, Active
+20, The Rolling Stones, 9, 16, 75, 12000000, 70000000, Active
+21, Pitbull, 184, 19, 44, 24000000, 100000000, Active
+22, Kendrick Lamar, 184, 19, 36, 38000000, 90000000, Active
+23, Eminem, 184, 19, 50, 60000000, 200000000, Active
+24, Sia, 184, 19, 49, 30000000, 50000000, Active
+25, Cardi B, 184, 19, 32, 45000000, 120000000, Active
+26, Travis Barker, 9, 16, 49, 5000000, 20000000, Active
+27, Lady Gaga, 184, 19, 37, 33000000, 160000000, Active
+28, Maroon 5, 9, 20, 43, 34000000, 90000000, Active
+29, Kendrick Lamar, 184, 19, 36, 38000000, 110000000, Active
+30, J Balvin, 184, 19, 39, 40000000, 130000000, Active
+31, Billie Joe Armstrong, 9, 16, 53, 3000000, 10000000, Active
+32, Dua Lipa, 184, 19, 28, 50000000, 150000000, Active
+33, Sam Smith, 9, 17, 31, 42000000, 100000000, Active
+34, Halsey, 9, 17, 29, 40000000, 120000000, Active
+35, Lorde, 9, 20, 28, 25000000, 70000000, Active
+36, Zedd, 9, 19, 35, 20000000, 80000000, Active
+37, Selena Gomez, 184, 19, 32, 45000000, 250000000, Active
+38, Post Malone, 184, 19, 29, 43000000, 150000000, Active
+39, Megan Thee Stallion, 184, 19, 29, 25000000, 80000000, Active
+40, Khalid, 184, 19, 25, 22000000, 50000000, Active
+41, Doja Cat, 184, 19, 28, 24000000, 60000000, Active
+42, Camila Cabello, 184, 19, 26, 28000000, 70000000, Active
+43, John Legend, 184, 19, 45, 19000000, 60000000, Active
+44, The Chainsmokers, 9, 20, 36, 33000000, 110000000, Active
+45, J Cole, 184, 19, 40, 36000000, 130000000, Active
+46, Migos, 184, 19, 33, 27000000, 90000000, Active
+47, Alicia Keys, 184, 17, 44, 22000000, 50000000, Active
+48, Billie Eilish, 184, 20, 22, 47000000, 95000000, Active
+49, The Weeknd, 184, 19, 32, 65000000, 170000000, Active
+50, Arctic Monkeys, 9, 20, 33, 21000000, 70000000, Active
